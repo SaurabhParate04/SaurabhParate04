@@ -29,14 +29,14 @@
 <img align="left" alt="Git" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-git-144.png?raw=true" />
 <img align="left" alt="GitHub" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-github-128.png?raw=true" />
 
-<br/> <br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 <details>
 <summary>GitHub Stats</summary>
-<a>
+<a href="https://github.com/SaurabhParate04/SaurabhParate04">
     <img align="center" alt="SaurabhParate04's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
-<a>
+<a href="https://github.com/SaurabhParate04/SaurabhParate04">
     <img align="center" alt="SaurabhParate04's GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 </details>
