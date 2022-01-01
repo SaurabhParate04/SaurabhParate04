@@ -4,7 +4,6 @@
 - ⚡ I am always trying to learn new technologies
 - 👯 You can contact me at [sparate04@gmail.com][email]
 
-<br/>
 
 ### Connect with me:
 
@@ -27,17 +26,15 @@
 <img align="left" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="80px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br/> <br/> <br/> <br/> 
-
-### GitHub Stats
+<br/> <br/> <br/> <br/> <br/>
 
 <details>
-<summary>:zap: GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 <a>
-    <img align="center" alt="SaurabhParate04's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img align="center" alt="SaurabhParate04's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 <a>
-    <img align="center" alt="SaurabhParate04's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=tokyonight&hide_border=true" />
+    <img align="center" alt="SaurabhParate04's GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=tokyonight&hide_border=true&card_width=200" />
 </a>
 </details>
 
