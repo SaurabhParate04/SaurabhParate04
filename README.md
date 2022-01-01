@@ -33,6 +33,7 @@
 
 <details>
 <summary>GitHub Stats</summary>
+<br/>
 <a href="https://github.com/SaurabhParate04">
     <img align="center" alt="SaurabhParate04's GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
