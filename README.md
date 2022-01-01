@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SaurabhParate04 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SaurabhParate04 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SaurabhParate04 | LinkedIn" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/linkedin.png?raw=true" />][linkedin]
+[<img align="left" alt="SaurabhParate04 | Instagram" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/instagram.png?raw=true" />][instagram]
 
 <br/> <br/>
 
