@@ -37,7 +37,7 @@
     <img align="center" alt="SaurabhParate04's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 <a>
-    <img align="center" alt="SaurabhParate04's GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=tokyonight&hide_border=true&card_width=200" />
+    <img align="center" alt="SaurabhParate04's GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 </details>
 
