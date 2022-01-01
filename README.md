@@ -33,10 +33,12 @@
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="SaurabhParate04's GitHub Stats" src="https://github-readme-stats.saurabhparate04.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true" />
+  <img align="left" alt="SaurabhParate04's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true" />
 
 </details>
 
