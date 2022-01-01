@@ -10,23 +10,26 @@
 [<img align="left" alt="SaurabhParate04 | LinkedIn" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/linkedin.png?raw=true" />][linkedin]
 [<img align="left" alt="SaurabhParate04 | Instagram" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/instagram.png?raw=true" />][instagram]
 
-<br/> <br/>
+<br/>
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="80px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="C++" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-c++-144.png?raw=true" />
+<img align="left" alt="HTML5" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-html-5-144.png?raw=true" />
+<img align="left" alt="CSS3" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-css3-144.png?raw=true" />
+<img align="left" alt="JavaScript" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-javascript-144.png?raw=true" />
+<img align="left" alt="React" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-react-160.png?raw=true" />
+<img align="left" alt="NPM" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-npm-144.png?raw=true" />
+<img align="left" alt="Python" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-python-144.png?raw=true" />
+<img align="left" alt="OpenCV" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-opencv-144.png?raw=true" />
+<img align="left" alt="Java" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-java-144.png?raw=true" />
+<img align="left" alt="MySQL" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-mysql-logo-144.png?raw=true" />
+<img align="left" alt="Solidity" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/file_type_light_solidity_icon_130436.png?raw=true" />
+<img align="left" alt="Visual Studio Code" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-visual-studio-code-2019-144.png?raw=true" />
+<img align="left" alt="Git" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-git-144.png?raw=true" />
+<img align="left" alt="GitHub" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-github-128.png?raw=true" />
 
-<br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/>
 
 <details>
 <summary>GitHub Stats</summary>
