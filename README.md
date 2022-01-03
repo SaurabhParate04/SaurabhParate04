@@ -25,6 +25,7 @@
 <img align="left" alt="Java" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-java-144.png?raw=true" />
 <img align="left" alt="MySQL" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-mysql-logo-144.png?raw=true" />
 <img align="left" alt="Solidity" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/file_type_light_solidity_icon_130436.png?raw=true" />
+<img align="left" alt="Android Studio" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-android-studio-240.png?raw=true" />
 <img align="left" alt="Visual Studio Code" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-visual-studio-code-2019-144.png?raw=true" />
 <img align="left" alt="Git" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-git-144.png?raw=true" />
 <img align="left" alt="GitHub" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-github-128.png?raw=true" />
