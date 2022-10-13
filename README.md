@@ -33,15 +33,12 @@
 <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 ### Stats on GitHub
-<details>
-<br/>
 <a href="https://github.com/SaurabhParate04">
     <img align="center" alt="SaurabhParate04's GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/SaurabhParate04">
     <img align="center" alt="SaurabhParate04's GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
-</details>
 
 [instagram]: https://www.instagram.com/saurabh_parate/
 [linkedin]: https://www.linkedin.com/in/saurabh-parate-2044921b0/
