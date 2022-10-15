@@ -1,7 +1,10 @@
 ### Hello, I am Saurabh Parate 👋 
 
-- 🌱 I am currently pursuing bachelors degree in computer engineering
-- ⚡ I am always trying to learn new technologies
+- 🌱 I am currently pursuing Bachelors degree in Computer Engineering
+- ⚡ I like to work with new technologies
+- 🔭 I have project experience with MERN stack, Android development, C++, Java, Python and Blockchain development
+- 📝 I like to study DSA, OS, DBMS and core subjects of Computer Science
+- ⚡ My next goal is to learn Data Science and Machine Learning
 - 👯 You can contact me at [sparate04@gmail.com][email]
 
 
@@ -33,12 +36,10 @@
 <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 ### Stats on GitHub
-<a href="https://github.com/SaurabhParate04">
-    <img align="center" alt="SaurabhParate04's GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&show_icons=true&hide_border=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/SaurabhParate04">
-    <img align="center" alt="SaurabhParate04's GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/SaurabhParate04"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&&show_icons=true&count_private=true&theme=github_dark"></a> &nbsp; <a href="https://github.com/SaurabhParate04"><img height="185px" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhParate04&theme=algolia"/></a>
+
+<a href="https://github.com/SaurabhParate04"><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=algolia"/></a> &nbsp; <a href="https://github.com/SaurabhParate04"><img height="190px" alt="Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaurabhParate04&custom_title=Saurabh's%20Contribution%20Graph%20(Last%2030%20Days)&theme=react-dark" /></a>
+
 
 [instagram]: https://www.instagram.com/saurabh_parate/
 [linkedin]: https://www.linkedin.com/in/saurabh-parate-2044921b0/
