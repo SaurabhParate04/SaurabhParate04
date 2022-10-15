@@ -36,9 +36,9 @@
 <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 ### Stats on GitHub
-<a href="https://github.com/SaurabhParate04"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&&show_icons=true&count_private=true&theme=github_dark"></a> &nbsp; <a href="https://github.com/SaurabhParate04"><img height="185px" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhParate04&theme=algolia"/></a>
+<a href="https://github.com/SaurabhParate04"><img height="145px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&&show_icons=true&count_private=true&theme=github_dark"></a> &nbsp; <a href="https://github.com/SaurabhParate04"><img height="145px" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhParate04&theme=algolia"/></a>
 
-<a href="https://github.com/SaurabhParate04"><img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=algolia"/></a> &nbsp; <a href="https://github.com/SaurabhParate04"><img height="190px" alt="Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaurabhParate04&custom_title=Saurabh's%20Contribution%20Graph%20(Last%2030%20Days)&theme=react-dark" /></a>
+<a href="https://github.com/SaurabhParate04"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=algolia"/></a> &nbsp; <a href="https://github.com/SaurabhParate04"><img height="150px" alt="Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaurabhParate04&custom_title=Saurabh's%20Contribution%20Graph%20(Last%2030%20Days)&theme=react-dark" /></a>
 
 
 [instagram]: https://www.instagram.com/saurabh_parate/
