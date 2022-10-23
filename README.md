@@ -7,7 +7,6 @@
 - ⚡ My next goal is to learn Data Science and Machine Learning
 - 👯 You can contact me at [sparate04@gmail.com][email]
 
-
 ### Connect with me:
 
 [<img align="left" alt="SaurabhParate04 | LinkedIn" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/linkedin.png?raw=true" />][linkedin]
