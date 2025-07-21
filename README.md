@@ -1,10 +1,6 @@
 ### Hello, I am Saurabh Parate 👋 
 
 - 🌱 I am currently pursuing Bachelors degree in Computer Engineering
-- ⚡ I like to work with new technologies
-- 🔭 I have project experience with MERN stack, Android development, C++, Java, Python and Blockchain development
-- 📝 I like to study DSA, OS, DBMS and core subjects of Computer Science
-- ⚡ My next goal is to learn Data Science and Machine Learning
 - 👯 You can contact me at [sparate04@gmail.com][email]
 
 ### Connect with me:
