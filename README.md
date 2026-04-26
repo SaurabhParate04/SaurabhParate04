@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="mailto:sparate04@gmail.com"><img alt="Email" width="30px" src="https://img.icons8.com/color/48/gmail-new.png" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saurabhparate04/"><img alt="SaurabhParate04 | LinkedIn" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/linkedin.png?raw=true" /></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/saurabh_parate/"><img alt="SaurabhParate04 | Instagram" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/instagram.png?raw=true" /></a>
+</div>
+
 <h1 align="center">Hi, I'm Saurabh 👋</h1>
 
 <div align="center">
@@ -31,11 +37,3 @@ I am a Software Engineer specializing in scalable enterprise backend systems and
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /> &nbsp;
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
 </p>
-
-<br/>
-
-### Connect with me:
-
-<a href="mailto:sparate04@gmail.com"><img align="left" alt="Email" width="30px" src="https://img.icons8.com/color/48/gmail-new.png" /></a>
-<a href="https://www.linkedin.com/in/saurabhparate04/"><img align="left" alt="SaurabhParate04 | LinkedIn" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/linkedin.png?raw=true" /></a>
-<a href="https://www.instagram.com/saurabh_parate/"><img align="left" alt="SaurabhParate04 | Instagram" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/instagram.png?raw=true" /></a>
