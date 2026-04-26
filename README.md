@@ -1,41 +1,41 @@
-### Hello, I am Saurabh Parate 👋 
+<h1 align="center">Hi, I'm Saurabh 👋</h1>
 
-- 🌱 I am currently pursuing Bachelors degree in Computer Engineering
-- 👯 You can contact me at [sparate04@gmail.com][email]
-
-### Connect with me:
-
-[<img align="left" alt="SaurabhParate04 | LinkedIn" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/linkedin.png?raw=true" />][linkedin]
-[<img align="left" alt="SaurabhParate04 | Instagram" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/instagram.png?raw=true" />][instagram]
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=>+Software+Engineer;>+Enterprise+Backend+Specialist;>+Building+Scalable+Microservices;>+Exploring+AI-Driven+Architectures" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-### Languages and Tools:
+I am a Software Engineer specializing in scalable enterprise backend systems and high-throughput microservices. I currently focus on architecting robust, enterprise-grade platforms and continuously exploring innovative architectural patterns.
 
-<img align="left" alt="C++" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-c++-144.png?raw=true" />
-<img align="left" alt="HTML5" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-html-5-144.png?raw=true" />
-<img align="left" alt="CSS3" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-css3-144.png?raw=true" />
-<img align="left" alt="JavaScript" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-javascript-144.png?raw=true" />
-<img align="left" alt="React" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-react-160.png?raw=true" />
-<img align="left" alt="NPM" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-npm-144.png?raw=true" />
-<img align="left" alt="Python" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-python-144.png?raw=true" />
-<img align="left" alt="OpenCV" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-opencv-144.png?raw=true" />
-<img align="left" alt="Java" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-java-144.png?raw=true" />
-<img align="left" alt="MySQL" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-mysql-logo-144.png?raw=true" />
-<img align="left" alt="Solidity" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/file_type_light_solidity_icon_130436.png?raw=true" />
-<img align="left" alt="Android Studio" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-android-studio-240.png?raw=true" />
-<img align="left" alt="Visual Studio Code" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-visual-studio-code-2019-144.png?raw=true" />
-<img align="left" alt="Git" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-git-144.png?raw=true" />
-<img align="left" alt="GitHub" width="80px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/icons8-github-128.png?raw=true" />
+- 🔭 **Currently working on:** Enterprise identification and verification systems processing millions of daily API requests.
+- 🚀 **Recent projects:** **PickFolio**, a real-time trading contest platform with live market data streaming and asynchronous trading engines.
+- 🌱 **Exploring:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), and AI-driven architecture.
+- 👯 **Let's connect:** [sparate04@gmail.com](mailto:sparate04@gmail.com)
 
-<br/> <br/> <br/> <br/> <br/> <br/> <br/>
+<br/>
 
-### Stats on GitHub
-<a href="https://github.com/SaurabhParate04"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=SaurabhParate04&&show_icons=true&count_private=true&theme=github_dark"></a> &nbsp; <a href="https://github.com/SaurabhParate04"><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhParate04&theme=algolia"/></a>
+### 💻 Languages and Tools
 
-<a href="https://github.com/SaurabhParate04"><img height="163px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhParate04&layout=compact&theme=algolia"/></a> &nbsp; <a href="https://github.com/SaurabhParate04"><img height="163px" alt="Saurabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SaurabhParate04&custom_title=Saurabh's%20Contribution%20Graph%20(Last%2030%20Days)&theme=react-dark" /></a>
+<p align="left">
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /> &nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+</p>
 
+<br/>
 
-[instagram]: https://www.instagram.com/saurabh_parate/
-[linkedin]: https://www.linkedin.com/in/saurabh-parate-2044921b0/
-[email]: mailto:sparate04@gmail.com
+### Connect with me:
+
+<a href="mailto:sparate04@gmail.com"><img align="left" alt="Email" width="30px" src="https://img.icons8.com/color/48/gmail-new.png" /></a>
+<a href="https://www.linkedin.com/in/saurabhparate04/"><img align="left" alt="SaurabhParate04 | LinkedIn" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/linkedin.png?raw=true" /></a>
+<a href="https://www.instagram.com/saurabh_parate/"><img align="left" alt="SaurabhParate04 | Instagram" width="30px" src="https://github.com/SaurabhParate04/SaurabhParate04/blob/master/icons/instagram.png?raw=true" /></a>
